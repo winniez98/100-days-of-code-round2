@@ -18,3 +18,11 @@
 **Link to work**: [Tip Calculator](https://replit.com/@winniez98/tip-calculator-start-1#main.py)
 
 
+### Day 3: Jan 3, 2023
+
+**Today's Progress**: I continued Day 3 of 100 Days of Python. Today I learned about if statements. Using this, I created a Treasure Hunting game, I also starting about CSS and HTML classes.
+
+**Thoughts**: Once again, this was all review and the challenges were quite straight forward. It was nice to redo the challenges though, and approach them with additional knowledge so that I could solve them in a simpler way. It was also fun to be creative and write a story for the Treasure Island game. I also had a lot of fun with CSS. HTML classes answered my question about how to make same elements with different styles so it was cool to finally have the question answered!
+
+**Link to work**: [Treasure Island Game](https://replit.com/@winniez98/treasure-island-start-1#main.py)
+
