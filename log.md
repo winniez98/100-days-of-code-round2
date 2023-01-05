@@ -26,3 +26,11 @@
 
 **Link to work**: [Treasure Island Game](https://replit.com/@winniez98/treasure-island-start-1#main.py)
 
+
+### Day 4: Jan 4, 2023
+
+**Today's Progress**: I did Day 4 of 100 Days of Python. I learned about the random module and lists in Python. I created a Rock, Paper, Scissors game. I also learned more CSS. I have also been using Git to push all the updates of my log.
+
+**Thoughts**: While some of the Python stuff is good review, it's also kind of boring as I learned it before and I'm familiar with the concepts... I'm debating if I should jump ahead or continue reviewing. CSS is fun so far and I'm excited to continue learning. Git was a hassle to setup on Day 1 as this is a forked repo but since fixing that issue, it's been simple. I used Git in my previous work position but it was a struggle to remember the right commands. Using Git for the past few days has really familiarized me with it.
+
+**Link to work**: [Rock, Paper, Scissors Game](https://replit.com/@winniez98/rock-paper-scissors-start-1#main.py)
