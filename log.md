@@ -34,3 +34,12 @@
 **Thoughts**: While some of the Python stuff is good review, it's also kind of boring as I learned it before and I'm familiar with the concepts... I'm debating if I should jump ahead or continue reviewing. CSS is fun so far and I'm excited to continue learning. Git was a hassle to setup on Day 1 as this is a forked repo but since fixing that issue, it's been simple. I used Git in my previous work position but it was a struggle to remember the right commands. Using Git for the past few days has really familiarized me with it.
 
 **Link to work**: [Rock, Paper, Scissors Game](https://replit.com/@winniez98/rock-paper-scissors-start-1#main.py)
+
+
+### Day 5: Jan 5, 2023:
+
+**Today's Progress: I finished Day 5 of 100 Days of Code: Python. I learned about for loops (looping over a list and using the `range()` function. Using this knowledge, I made a simple password generator. I also learned more about CSS positioning and pseudoselectors.
+
+**Thoughts**: I really like loops so I found today's lesson really fun. I also had a lot of fun with pseudoselectors! It's cool that I can make buttons and the cursor change when I hover over the button!
+
+**Link to work**: [Password Generator](https://replit.com/@winniez98/password-generator-start-1#main.py) 
