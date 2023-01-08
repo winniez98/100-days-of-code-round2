@@ -43,3 +43,19 @@
 **Thoughts**: I really like loops so I found today's lesson really fun. I also had a lot of fun with pseudoselectors! It's cool that I can make buttons and the cursor change when I hover over the button!
 
 **Link to work**: [Password Generator](https://replit.com/@winniez98/password-generator-start-1#main.py) 
+
+
+### Day 6: Jam 6, 2023:
+
+**Today's Progress**: I learned about while loops and solved problems of a robot navigating a maze using everything I learned so far. I also learned about HTML container elements. 
+
+**Thoughts**: The robot challenge was quite difficult. I encountered some of the edge cases and had a lot of difficulty solving them. I also don't completely understand when HTML container elements are used vs normal HTML elements but hopefully this will become clearer as I practice more.
+
+
+### Day 7: Jan 7, 2022:
+
+**Today's Progress: I created a Hangman Game and created a very simple weather app using HTML and css.
+
+**Thoughts**: It was exciting to take on an entire challenge. I enjoyed breaking down the larger hangman challenge into smaller parts. For the weather app, it was also fun to build something from scratch. It was difficult to remember everything I should add though (e.g. making sure there's a transition when you hover so that the hover change isn't too abrupt). 
+
+**Link to work**: [Hangman Game](https://replit.com/@winniez98/Day-7-Hangman-5-Start-1#main.py)
