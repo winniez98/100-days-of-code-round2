@@ -38,14 +38,14 @@
 
 ### Day 5: Jan 5, 2023:
 
-**Today's Progress: I finished Day 5 of 100 Days of Code: Python. I learned about for loops (looping over a list and using the `range()` function. Using this knowledge, I made a simple password generator. I also learned more about CSS positioning and pseudoselectors.
+**Today's Progress**: I finished Day 5 of 100 Days of Code: Python. I learned about for loops (looping over a list and using the `range()` function. Using this knowledge, I made a simple password generator. I also learned more about CSS positioning and pseudoselectors.
 
 **Thoughts**: I really like loops so I found today's lesson really fun. I also had a lot of fun with pseudoselectors! It's cool that I can make buttons and the cursor change when I hover over the button!
 
 **Link to work**: [Password Generator](https://replit.com/@winniez98/password-generator-start-1#main.py) 
 
 
-### Day 6: Jam 6, 2023:
+### Day 6: Jan 6, 2023:
 
 **Today's Progress**: I learned about while loops and solved problems of a robot navigating a maze using everything I learned so far. I also learned about HTML container elements. 
 
@@ -54,8 +54,26 @@
 
 ### Day 7: Jan 7, 2022:
 
-**Today's Progress: I created a Hangman Game and created a very simple weather app using HTML and css.
+**Today's Progress**: I created a Hangman Game and created a very simple weather app using HTML and css.
 
 **Thoughts**: It was exciting to take on an entire challenge. I enjoyed breaking down the larger hangman challenge into smaller parts. For the weather app, it was also fun to build something from scratch. It was difficult to remember everything I should add though (e.g. making sure there's a transition when you hover so that the hover change isn't too abrupt). 
 
 **Link to work**: [Hangman Game](https://replit.com/@winniez98/Day-7-Hangman-5-Start-1#main.py)
+
+
+### Day 8: Jan 8, 2022:
+
+**Today's Progress***: I learned about functions with inputs and created a Caesar Cipher using Python. I also started learning JavaScript. 
+
+**Thoughts**: Since most of the Python challenge was review, I found it relatively straight forward. Learning JavaScript is simple and straightforward so far, but it's also kinda trippy to learn Python and JS at the same time, so sometimes I get my syntax mixed up 😅
+
+**Link to work:** [Caesar Cipher](https://replit.com/@winniez98/caesar-cipher-4-start-round2#main.py)
+
+
+### Day 9: Jan 9, 2022
+
+**Today's Progress**: I learned about dictionaries in Python and nesting dictionaries/lists. I created a silent auction using Python. I also learned about if statements in JS.
+
+**Thoughts**: nesting always gives me a headache cause it can get really complicated/confusing! Organizing my code in a certain way helps, but I sometimes still get things mixed up oops. If statements in JS seem pretty straight forward so far.
+
+**Link to work:** [Silent Auction](https://replit.com/@winniez98/blind-auction-start-round2#main.py)
